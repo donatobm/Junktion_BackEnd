@@ -4,7 +4,7 @@ export interface PublicationInterface {
     images: [string];
     owner: string;
     isEdited: boolean;
-    bookMark: boolean;
     likes: number;
     comments: number;
+
 }
